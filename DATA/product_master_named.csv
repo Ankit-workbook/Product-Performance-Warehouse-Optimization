@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Cost_Price,Selling_Price
+P001,Smartphone X1,Sports,141,225
+P002,Laptop Pro 15,Books,416,524
+P003,Bluetooth Speaker,Home & Kitchen,493,583
+P004,LED TV 42inch,Books,477,505
+P005,Wireless Earbuds,Books,313,420
+P006,Men's Cotton Shirt,Clothing,480,628
+P007,Women's Denim Jacket,Home & Kitchen,84,239
+P008,Running Shoes,Home & Kitchen,255,337
+P009,Sports Watch,Home & Kitchen,130,288
+P010,Backpack Travel,Books,469,569
+P011,Ceramic Dinner Set,Sports,99,254
+P012,Non-stick Frying Pan,Home & Kitchen,409,591
+P013,Vacuum Cleaner,Books,437,619
+P014,Air Purifier,Clothing,51,103
+P015,Table Lamp,Sports,439,581
+P016,Yoga Mat,Clothing,103,127
+P017,Tennis Racket,Sports,155,215
+P018,Football Size 5,Books,309,356
+P019,Mountain Bicycle,Electronics,359,513
+P020,Camping Tent,Sports,240,331
+P021,Fiction Novel A,Clothing,451,482
+P022,Fiction Novel B,Books,267,448
+P023,Cookbook Deluxe,Sports,93,145
+P024,Self-help Guide,Electronics,211,278
+P025,Children's Story Book,Electronics,251,421
+P026,Smartwatch Series 5,Home & Kitchen,495,576
+P027,Gaming Console Z,Home & Kitchen,319,375
+P028,Wireless Mouse,Clothing,400,518
+P029,Mechanical Keyboard,Sports,353,544
+P030,External Hard Drive,Sports,320,443
+P031,Winter Jacket,Home & Kitchen,264,318
+P032,Formal Trousers,Sports,301,421
+P033,Casual Sneakers,Sports,239,433
+P034,Leather Belt,Electronics,345,495
+P035,Sunglasses UV400,Home & Kitchen,262,282
+P036,Microwave Oven,Books,257,281
+P037,Refrigerator 300L,Home & Kitchen,286,447
+P038,Mixer Grinder,Books,387,509
+P039,Electric Kettle,Electronics,416,462
+P040,Induction Cooktop,Clothing,102,258
+P041,Cricket Bat,Sports,329,363
+P042,Badminton Racket,Electronics,459,568
+P043,Dumbbell Set,Sports,266,327
+P044,Treadmill Pro,Clothing,301,444
+P045,Jump Rope,Clothing,237,435
+P046,Science Textbook,Electronics,429,511
+P047,History Encyclopedia,Clothing,90,205
+P048,Math Workbook,Books,206,277
+P049,Language Learning Book,Clothing,64,179
+P050,Travel Guide Europe,Sports,350,501

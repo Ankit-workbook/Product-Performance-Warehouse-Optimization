@@ -1,0 +1,251 @@
+Warehouse_ID,Product_ID,Stock_On_Hand,Reorder_Level,Storage_Cost_Per_Unit,Order_Fulfillment_Time,Damaged_Units,Space_Utilization,Product_Name
+W01,P001,376,97,1.29,3,1,67,Smartphone X1
+W01,P002,360,84,1.78,3,2,93,Laptop Pro 15
+W01,P003,118,31,4.05,2,5,67,Bluetooth Speaker
+W01,P004,241,79,0.56,1,6,72,LED TV 42inch
+W01,P005,92,46,1.5,1,4,85,Wireless Earbuds
+W01,P006,284,55,2.8,2,6,75,Men's Cotton Shirt
+W01,P007,123,62,2.93,1,3,76,Women's Denim Jacket
+W01,P008,357,62,1.2,1,8,65,Running Shoes
+W01,P009,359,97,2.18,4,4,90,Sports Watch
+W01,P010,152,57,4.79,1,5,72,Backpack Travel
+W01,P011,426,69,3.02,1,0,93,Ceramic Dinner Set
+W01,P012,274,63,1.57,2,4,83,Non-stick Frying Pan
+W01,P013,481,99,4.03,3,3,91,Vacuum Cleaner
+W01,P014,410,94,3.4,4,8,93,Air Purifier
+W01,P015,288,80,0.59,2,6,88,Table Lamp
+W01,P016,381,50,2.54,4,2,86,Yoga Mat
+W01,P017,448,90,2.83,4,1,83,Tennis Racket
+W01,P018,125,47,3.02,1,2,88,Football Size 5
+W01,P019,465,73,1.14,4,0,96,Mountain Bicycle
+W01,P020,198,60,2.71,2,9,62,Camping Tent
+W01,P021,173,33,2.71,3,2,68,Fiction Novel A
+W01,P022,487,89,4.12,4,4,81,Fiction Novel B
+W01,P023,360,22,3.39,4,4,64,Cookbook Deluxe
+W01,P024,58,81,2.39,3,5,94,Self-help Guide
+W01,P025,96,37,1.83,3,8,99,Children's Story Book
+W01,P026,144,42,4.16,2,2,72,Smartwatch Series 5
+W01,P027,488,55,2.62,1,6,68,Gaming Console Z
+W01,P028,419,40,3.15,4,8,84,Wireless Mouse
+W01,P029,242,94,2.39,3,0,98,Mechanical Keyboard
+W01,P030,249,67,3.58,2,4,62,External Hard Drive
+W01,P031,137,81,3.08,1,0,82,Winter Jacket
+W01,P032,211,68,0.74,3,0,69,Formal Trousers
+W01,P033,401,85,3.45,3,6,71,Casual Sneakers
+W01,P034,88,61,0.65,1,3,91,Leather Belt
+W01,P035,429,63,3.76,2,9,91,Sunglasses UV400
+W01,P036,437,72,1.66,1,8,68,Microwave Oven
+W01,P037,127,69,1.09,1,5,64,Refrigerator 300L
+W01,P038,142,80,4.18,1,4,78,Mixer Grinder
+W01,P039,181,65,2.01,2,5,95,Electric Kettle
+W01,P040,264,86,1.3,2,0,91,Induction Cooktop
+W01,P041,97,65,2.89,4,5,86,Cricket Bat
+W01,P042,111,97,4.36,1,1,99,Badminton Racket
+W01,P043,121,36,3.28,3,2,81,Dumbbell Set
+W01,P044,340,75,1.31,4,5,92,Treadmill Pro
+W01,P045,445,43,1.44,1,1,90,Jump Rope
+W01,P046,287,48,3.82,4,6,89,Science Textbook
+W01,P047,199,68,0.55,1,7,92,History Encyclopedia
+W01,P048,65,59,3.1,3,2,69,Math Workbook
+W01,P049,125,90,2.41,4,7,97,Language Learning Book
+W01,P050,122,32,0.54,4,8,77,Travel Guide Europe
+W02,P001,74,72,3.39,4,1,82,Smartphone X1
+W02,P002,139,61,0.84,1,8,93,Laptop Pro 15
+W02,P003,331,88,2.71,1,4,84,Bluetooth Speaker
+W02,P004,156,93,2.72,1,6,78,LED TV 42inch
+W02,P005,196,48,4.49,1,4,93,Wireless Earbuds
+W02,P006,271,95,1.11,1,8,61,Men's Cotton Shirt
+W02,P007,205,53,0.53,2,0,64,Women's Denim Jacket
+W02,P008,390,41,4.07,4,2,87,Running Shoes
+W02,P009,82,54,3.11,1,9,95,Sports Watch
+W02,P010,413,81,1.56,4,9,66,Backpack Travel
+W02,P011,392,24,2.78,4,0,79,Ceramic Dinner Set
+W02,P012,490,99,1.78,3,9,75,Non-stick Frying Pan
+W02,P013,177,97,1.87,2,0,81,Vacuum Cleaner
+W02,P014,371,83,0.56,1,5,98,Air Purifier
+W02,P015,196,66,4.31,1,9,74,Table Lamp
+W02,P016,291,23,0.93,1,4,81,Yoga Mat
+W02,P017,438,79,2.79,2,8,79,Tennis Racket
+W02,P018,415,76,4.33,1,3,85,Football Size 5
+W02,P019,181,70,2.68,2,3,70,Mountain Bicycle
+W02,P020,376,74,1.64,2,7,82,Camping Tent
+W02,P021,417,34,1.63,2,8,83,Fiction Novel A
+W02,P022,384,67,2.21,4,9,82,Fiction Novel B
+W02,P023,374,52,1.89,4,9,85,Cookbook Deluxe
+W02,P024,371,50,1.0,3,2,96,Self-help Guide
+W02,P025,170,69,2.29,3,4,60,Children's Story Book
+W02,P026,291,90,1.67,3,2,89,Smartwatch Series 5
+W02,P027,186,54,1.33,1,2,87,Gaming Console Z
+W02,P028,202,75,4.94,3,4,92,Wireless Mouse
+W02,P029,111,86,1.98,4,7,76,Mechanical Keyboard
+W02,P030,455,57,2.23,1,3,84,External Hard Drive
+W02,P031,87,68,4.07,3,6,79,Winter Jacket
+W02,P032,332,33,4.77,3,8,99,Formal Trousers
+W02,P033,252,71,1.52,1,3,93,Casual Sneakers
+W02,P034,328,38,3.07,1,0,69,Leather Belt
+W02,P035,242,24,4.47,3,1,68,Sunglasses UV400
+W02,P036,285,26,1.01,3,8,99,Microwave Oven
+W02,P037,122,68,3.5,4,8,69,Refrigerator 300L
+W02,P038,162,93,2.19,2,3,75,Mixer Grinder
+W02,P039,354,46,1.33,1,9,91,Electric Kettle
+W02,P040,471,49,1.98,2,5,90,Induction Cooktop
+W02,P041,258,36,0.69,2,6,76,Cricket Bat
+W02,P042,381,58,2.92,1,9,63,Badminton Racket
+W02,P043,239,38,4.4,1,5,68,Dumbbell Set
+W02,P044,219,81,1.16,3,4,68,Treadmill Pro
+W02,P045,222,46,0.92,1,4,67,Jump Rope
+W02,P046,320,96,3.75,3,3,82,Science Textbook
+W02,P047,467,37,3.52,2,1,86,History Encyclopedia
+W02,P048,227,50,4.27,1,0,66,Math Workbook
+W02,P049,195,85,2.84,4,2,68,Language Learning Book
+W02,P050,146,47,3.97,4,1,74,Travel Guide Europe
+W03,P001,310,60,1.28,4,9,68,Smartphone X1
+W03,P002,305,85,4.61,4,2,75,Laptop Pro 15
+W03,P003,242,76,4.65,1,0,99,Bluetooth Speaker
+W03,P004,447,59,4.36,4,7,98,LED TV 42inch
+W03,P005,150,52,4.68,2,6,73,Wireless Earbuds
+W03,P006,381,22,1.86,2,9,69,Men's Cotton Shirt
+W03,P007,277,61,1.48,2,1,68,Women's Denim Jacket
+W03,P008,94,24,2.06,1,8,85,Running Shoes
+W03,P009,141,41,4.2,2,9,95,Sports Watch
+W03,P010,208,50,2.4,2,0,92,Backpack Travel
+W03,P011,263,55,4.32,4,2,97,Ceramic Dinner Set
+W03,P012,240,42,3.64,1,9,96,Non-stick Frying Pan
+W03,P013,498,37,0.96,2,2,91,Vacuum Cleaner
+W03,P014,459,52,0.77,3,5,78,Air Purifier
+W03,P015,131,98,2.54,3,7,62,Table Lamp
+W03,P016,216,90,4.74,2,2,73,Yoga Mat
+W03,P017,459,73,3.76,3,4,94,Tennis Racket
+W03,P018,450,79,4.9,4,9,89,Football Size 5
+W03,P019,168,28,2.89,2,4,82,Mountain Bicycle
+W03,P020,110,31,1.62,1,7,80,Camping Tent
+W03,P021,487,66,4.01,3,2,74,Fiction Novel A
+W03,P022,78,30,2.66,3,5,85,Fiction Novel B
+W03,P023,259,75,2.62,3,5,65,Cookbook Deluxe
+W03,P024,316,42,1.38,4,0,68,Self-help Guide
+W03,P025,172,47,1.54,3,0,82,Children's Story Book
+W03,P026,269,23,3.27,3,2,64,Smartwatch Series 5
+W03,P027,173,52,0.74,2,4,93,Gaming Console Z
+W03,P028,497,66,2.86,3,7,77,Wireless Mouse
+W03,P029,322,20,4.44,1,5,88,Mechanical Keyboard
+W03,P030,107,39,1.13,1,3,77,External Hard Drive
+W03,P031,294,46,4.92,4,8,64,Winter Jacket
+W03,P032,439,34,2.4,2,6,83,Formal Trousers
+W03,P033,198,32,4.79,1,2,80,Casual Sneakers
+W03,P034,186,86,0.88,2,2,98,Leather Belt
+W03,P035,218,69,1.05,1,9,73,Sunglasses UV400
+W03,P036,290,94,2.98,1,3,74,Microwave Oven
+W03,P037,307,31,3.76,2,1,82,Refrigerator 300L
+W03,P038,239,53,1.62,2,3,66,Mixer Grinder
+W03,P039,370,34,4.41,2,8,60,Electric Kettle
+W03,P040,314,61,0.98,2,8,73,Induction Cooktop
+W03,P041,276,99,2.57,3,1,91,Cricket Bat
+W03,P042,149,94,4.04,1,1,91,Badminton Racket
+W03,P043,352,89,2.56,4,3,84,Dumbbell Set
+W03,P044,331,52,3.92,4,0,74,Treadmill Pro
+W03,P045,219,73,3.76,4,9,62,Jump Rope
+W03,P046,230,75,1.84,4,0,91,Science Textbook
+W03,P047,342,39,3.03,1,8,99,History Encyclopedia
+W03,P048,158,68,2.0,2,8,86,Math Workbook
+W03,P049,468,32,2.06,4,0,60,Language Learning Book
+W03,P050,377,22,3.84,1,9,92,Travel Guide Europe
+W04,P001,309,57,0.76,1,6,98,Smartphone X1
+W04,P002,330,92,2.97,2,2,88,Laptop Pro 15
+W04,P003,488,69,1.88,2,8,87,Bluetooth Speaker
+W04,P004,228,56,1.48,4,1,80,LED TV 42inch
+W04,P005,83,57,3.64,4,9,90,Wireless Earbuds
+W04,P006,417,98,3.48,4,9,68,Men's Cotton Shirt
+W04,P007,230,89,1.05,4,5,98,Women's Denim Jacket
+W04,P008,366,71,3.47,1,9,85,Running Shoes
+W04,P009,244,94,2.27,1,7,83,Sports Watch
+W04,P010,197,93,1.77,2,0,94,Backpack Travel
+W04,P011,127,99,2.39,1,8,61,Ceramic Dinner Set
+W04,P012,151,68,4.06,3,4,60,Non-stick Frying Pan
+W04,P013,134,91,1.04,1,4,70,Vacuum Cleaner
+W04,P014,449,28,2.0,3,6,95,Air Purifier
+W04,P015,200,66,3.92,3,9,90,Table Lamp
+W04,P016,157,45,0.82,2,1,88,Yoga Mat
+W04,P017,487,51,4.97,3,5,80,Tennis Racket
+W04,P018,332,53,2.84,2,6,64,Football Size 5
+W04,P019,166,92,1.94,3,4,67,Mountain Bicycle
+W04,P020,440,49,4.64,4,7,71,Camping Tent
+W04,P021,133,41,1.88,4,9,87,Fiction Novel A
+W04,P022,488,92,1.47,2,4,73,Fiction Novel B
+W04,P023,156,65,4.34,2,2,69,Cookbook Deluxe
+W04,P024,247,39,2.92,3,3,62,Self-help Guide
+W04,P025,373,30,1.82,1,9,88,Children's Story Book
+W04,P026,471,41,2.85,4,5,66,Smartwatch Series 5
+W04,P027,457,65,0.75,3,2,98,Gaming Console Z
+W04,P028,270,99,4.09,1,5,68,Wireless Mouse
+W04,P029,392,68,4.75,2,3,95,Mechanical Keyboard
+W04,P030,310,23,3.41,3,1,68,External Hard Drive
+W04,P031,115,57,4.57,1,6,83,Winter Jacket
+W04,P032,435,37,4.74,2,8,83,Formal Trousers
+W04,P033,204,72,4.63,2,9,67,Casual Sneakers
+W04,P034,294,33,1.62,1,8,98,Leather Belt
+W04,P035,82,40,2.02,1,1,69,Sunglasses UV400
+W04,P036,123,49,4.72,3,8,99,Microwave Oven
+W04,P037,348,60,1.97,1,6,72,Refrigerator 300L
+W04,P038,447,60,1.3,2,0,88,Mixer Grinder
+W04,P039,255,95,4.41,2,6,62,Electric Kettle
+W04,P040,365,33,4.44,2,9,63,Induction Cooktop
+W04,P041,88,93,4.08,4,7,84,Cricket Bat
+W04,P042,485,34,2.85,2,7,68,Badminton Racket
+W04,P043,364,33,2.38,3,7,69,Dumbbell Set
+W04,P044,155,62,2.65,3,2,82,Treadmill Pro
+W04,P045,135,94,3.39,3,8,83,Jump Rope
+W04,P046,108,72,2.36,3,2,90,Science Textbook
+W04,P047,138,56,2.31,3,0,81,History Encyclopedia
+W04,P048,270,96,3.82,2,0,95,Math Workbook
+W04,P049,443,28,5.0,3,7,92,Language Learning Book
+W04,P050,453,54,1.93,3,1,73,Travel Guide Europe
+W05,P001,315,86,4.4,3,2,98,Smartphone X1
+W05,P002,267,87,0.88,3,2,85,Laptop Pro 15
+W05,P003,426,21,3.02,1,2,97,Bluetooth Speaker
+W05,P004,316,51,2.45,1,5,65,LED TV 42inch
+W05,P005,331,27,3.05,4,0,98,Wireless Earbuds
+W05,P006,388,22,3.94,1,4,92,Men's Cotton Shirt
+W05,P007,145,89,2.61,2,4,88,Women's Denim Jacket
+W05,P008,303,42,1.29,3,0,92,Running Shoes
+W05,P009,98,55,1.53,2,2,62,Sports Watch
+W05,P010,445,56,4.36,4,1,79,Backpack Travel
+W05,P011,242,77,1.85,3,7,97,Ceramic Dinner Set
+W05,P012,316,71,2.56,2,5,99,Non-stick Frying Pan
+W05,P013,58,89,4.38,2,2,81,Vacuum Cleaner
+W05,P014,193,64,4.58,1,5,63,Air Purifier
+W05,P015,151,93,4.35,3,4,78,Table Lamp
+W05,P016,332,30,3.45,1,2,83,Yoga Mat
+W05,P017,406,96,1.18,1,6,94,Tennis Racket
+W05,P018,171,64,2.11,3,4,62,Football Size 5
+W05,P019,397,99,4.26,3,9,82,Mountain Bicycle
+W05,P020,337,93,0.71,2,8,97,Camping Tent
+W05,P021,126,34,4.69,3,1,60,Fiction Novel A
+W05,P022,474,23,5.0,4,0,73,Fiction Novel B
+W05,P023,281,60,2.73,3,4,99,Cookbook Deluxe
+W05,P024,84,78,0.65,3,9,75,Self-help Guide
+W05,P025,439,60,4.53,1,8,64,Children's Story Book
+W05,P026,461,94,4.3,3,5,86,Smartwatch Series 5
+W05,P027,399,72,4.89,2,9,68,Gaming Console Z
+W05,P028,360,64,3.63,2,8,85,Wireless Mouse
+W05,P029,300,81,3.43,2,4,76,Mechanical Keyboard
+W05,P030,279,53,0.7,1,4,77,External Hard Drive
+W05,P031,85,89,1.03,3,3,91,Winter Jacket
+W05,P032,272,22,3.74,4,4,82,Formal Trousers
+W05,P033,167,20,1.64,1,9,89,Casual Sneakers
+W05,P034,100,63,4.77,4,1,89,Leather Belt
+W05,P035,215,97,4.65,1,6,76,Sunglasses UV400
+W05,P036,204,42,1.63,3,1,93,Microwave Oven
+W05,P037,312,29,2.3,1,0,88,Refrigerator 300L
+W05,P038,259,79,2.3,4,5,84,Mixer Grinder
+W05,P039,321,44,1.98,3,8,74,Electric Kettle
+W05,P040,233,56,1.91,1,2,81,Induction Cooktop
+W05,P041,231,40,1.09,3,3,94,Cricket Bat
+W05,P042,178,23,2.54,2,5,82,Badminton Racket
+W05,P043,262,97,4.33,4,2,83,Dumbbell Set
+W05,P044,108,26,2.67,2,9,85,Treadmill Pro
+W05,P045,207,85,4.05,1,8,98,Jump Rope
+W05,P046,157,30,0.65,4,2,99,Science Textbook
+W05,P047,416,35,1.36,2,4,80,History Encyclopedia
+W05,P048,376,24,1.05,1,0,90,Math Workbook
+W05,P049,390,86,1.59,3,5,76,Language Learning Book
+W05,P050,291,69,3.35,3,9,92,Travel Guide Europe
