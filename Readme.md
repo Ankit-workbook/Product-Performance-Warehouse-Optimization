@@ -173,7 +173,7 @@ product-performance-warehouse-optimization/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/product-performance-warehouse-optimization.git
+git clone https://github.com/Ankit-workbook/product-performance-warehouse-optimization.git
 ```
 
 2. Install dependencies:
