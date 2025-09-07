@@ -72,8 +72,6 @@ This project aims to uncover patterns in sales and warehouse operations to impro
 product-performance-warehouse-optimization/
 │
 ├── README.md
-├── .gitignore
-├── requirements.txt
 ├── Product_Performance_Report.pdf
 │
 ├── notebooks/                  
@@ -81,10 +79,10 @@ product-performance-warehouse-optimization/
 │   ├── warehouse_analysis.ipynb
 │   └── combined_analysis.ipynb
 │
-├── scripts/                    
-│   ├── data_cleaning.py
-│   ├── merge_sales_warehouse.py
-│   └── kpi_calculations.py
+├── Sql_scripts/                    
+│   ├── warehouse.sql
+│   
+│ 
 │
 ├── dashboard/                  
 │   └── warehouse_sales_dashboard.twbx
